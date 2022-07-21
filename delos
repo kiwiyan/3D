@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-14T08:44:35.589Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="kEOEGAaFz9omSim-Rq0D" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-21T03:24:43.490Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="tpmIjJP901voae1M5LcG" version="20.1.1" type="github">
   <diagram id="3sxb2h-Iiv77CN3ps_Wg" name="Page-1">
     <mxGraphModel dx="1298" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -270,13 +270,31 @@
         <mxCell id="j4XPz557JHvSBSpsdMEX-76" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Update rules&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="582" y="1710" width="118" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F-O3C9HgkFjZ--lZxKJh-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F-O3C9HgkFjZ--lZxKJh-1">
+        <mxCell id="F-O3C9HgkFjZ--lZxKJh-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="F-O3C9HgkFjZ--lZxKJh-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="310" y="509" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F-O3C9HgkFjZ--lZxKJh-1" value="valid" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="F-O3C9HgkFjZ--lZxKJh-1" value="valid" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="489" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-sNOIYTH-Sr3Y_rJJXeZ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="-sNOIYTH-Sr3Y_rJJXeZ-1" target="-sNOIYTH-Sr3Y_rJJXeZ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-sNOIYTH-Sr3Y_rJJXeZ-1" value="webview" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="290" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-sNOIYTH-Sr3Y_rJJXeZ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-sNOIYTH-Sr3Y_rJJXeZ-2" target="-sNOIYTH-Sr3Y_rJJXeZ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-sNOIYTH-Sr3Y_rJJXeZ-2" value="plugin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="66" width="230" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="-sNOIYTH-Sr3Y_rJJXeZ-4" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: rgb(248, 248, 248); color: rgb(233, 105, 0); font-family: &amp;quot;Roboto Mono&amp;quot;, Monaco, courier, monospace; font-size: 12.8px; word-spacing: 0.8px;&quot;&gt;send: acquireVsCodeApi().postMessage()&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: rgb(248, 248, 248); color: rgb(233, 105, 0); font-family: &amp;quot;Roboto Mono&amp;quot;, Monaco, courier, monospace; font-size: 12.8px; word-spacing: 0.8px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;color: rgb(233, 105, 0); font-family: &amp;quot;Roboto Mono&amp;quot;, Monaco, courier, monospace; font-size: 12.8px; word-spacing: 0.8px; background-color: rgb(248, 248, 248);&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;word-spacing: 0.8px;&quot;&gt;receive:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;word-spacing: 0.8px;&quot;&gt;window.addEventListener(&#39;message&#39;, ()=&amp;gt;{})&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="186" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-sNOIYTH-Sr3Y_rJJXeZ-6" value="&lt;span style=&quot;color: rgb(233, 105, 0); font-family: &amp;quot;Roboto Mono&amp;quot;, Monaco, courier, monospace; font-size: 12.8px; word-spacing: 0.8px; background-color: rgb(248, 248, 248);&quot;&gt;send: webview.postMessage()&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="176" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
