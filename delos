@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-09T00:41:24.658Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="fjopxENNDgBzs4giBTXP" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-09T00:44:39.677Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="XpV4nnCnkGhr1Binf-kM" version="20.2.8" type="github">
   <diagram id="3sxb2h-Iiv77CN3ps_Wg" name="Page-1">
     <mxGraphModel dx="1394" dy="914" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -580,10 +580,18 @@
         <mxCell id="-hrlGR30Oml4dmVjub9r-112" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-hrlGR30Oml4dmVjub9r-113" target="-hrlGR30Oml4dmVjub9r-115">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="-hrlGR30Oml4dmVjub9r-139" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=9;endArrow=open;startSize=14;endSize=14;" edge="1" parent="1" source="-hrlGR30Oml4dmVjub9r-113" target="-hrlGR30Oml4dmVjub9r-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-hrlGR30Oml4dmVjub9r-143" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" vertex="1" connectable="0" parent="-hrlGR30Oml4dmVjub9r-139">
+          <mxGeometry x="-0.1754" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="-hrlGR30Oml4dmVjub9r-113" value="if checkout branch manual" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1752" y="2498" width="96" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-hrlGR30Oml4dmVjub9r-114" value="listen branch：&lt;br&gt;+ load/commit: ignore, config" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-hrlGR30Oml4dmVjub9r-114" value="just git checkout" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1740" y="2739" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-hrlGR30Oml4dmVjub9r-115" value="current branch action" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -676,8 +684,29 @@
         <mxCell id="-hrlGR30Oml4dmVjub9r-136" value="loadFile: ci, config, ignore" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1715" y="2342" width="166" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="-hrlGR30Oml4dmVjub9r-140" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=9;endArrow=open;startSize=14;endSize=14;" edge="1" parent="1" source="-hrlGR30Oml4dmVjub9r-137" target="-hrlGR30Oml4dmVjub9r-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-hrlGR30Oml4dmVjub9r-144" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" vertex="1" connectable="0" parent="-hrlGR30Oml4dmVjub9r-140">
+          <mxGeometry x="-0.7162" y="1" relative="1" as="geometry">
+            <mxPoint y="11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-hrlGR30Oml4dmVjub9r-142" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;endArrow=open;startSize=14;endSize=14;" edge="1" parent="1" source="-hrlGR30Oml4dmVjub9r-137">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1892.3157894736842" y="2654" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-hrlGR30Oml4dmVjub9r-145" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" vertex="1" connectable="0" parent="-hrlGR30Oml4dmVjub9r-142">
+          <mxGeometry x="-0.2475" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="-hrlGR30Oml4dmVjub9r-137" value="&lt;font size=&quot;1&quot;&gt;if&amp;nbsp; check to target&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1760" y="2614" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-hrlGR30Oml4dmVjub9r-141" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;listen branch：&lt;/span&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;+ load/commit: ignore&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="1893" y="2624" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
