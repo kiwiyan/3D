@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-09T00:44:39.677Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="XpV4nnCnkGhr1Binf-kM" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-12T09:06:30.664Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="_jHX-dtRpBjVg1fGwiHW" version="20.2.8" type="github">
   <diagram id="3sxb2h-Iiv77CN3ps_Wg" name="Page-1">
     <mxGraphModel dx="1394" dy="914" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -707,6 +707,12 @@
         </mxCell>
         <mxCell id="-hrlGR30Oml4dmVjub9r-141" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;listen branch：&lt;/span&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;+ load/commit: ignore&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="1893" y="2624" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-hrlGR30Oml4dmVjub9r-146" value="Checkout v1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="1125" y="1689" width="84" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-hrlGR30Oml4dmVjub9r-147" value="Checkout v2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="1756" y="1683" width="84" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
