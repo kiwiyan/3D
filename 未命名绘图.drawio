@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-31T08:02:12.945Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="L_8jLIq_QEPXDvtdGDh6" version="24.4.10" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-31T08:04:23.556Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="zUmzllcShoUSNcZJa_CQ" version="24.4.10" type="github">
   <diagram id="P4hrTo7IcWHyGJP2rmx5" name="第 1 页">
     <mxGraphModel dx="1440" dy="2128" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
           <mxGeometry x="90" y="190" width="360" height="140" as="geometry" />
         </mxCell>
         <mxCell id="XHffNd1frki8fQ4tHE0x-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="-160" width="390" height="110" as="geometry" />
+          <mxGeometry x="160" y="-160" width="320" height="110" as="geometry" />
         </mxCell>
         <mxCell id="XHffNd1frki8fQ4tHE0x-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XHffNd1frki8fQ4tHE0x-2" target="XHffNd1frki8fQ4tHE0x-15">
           <mxGeometry relative="1" as="geometry" />
@@ -32,9 +32,6 @@
         </mxCell>
         <mxCell id="XHffNd1frki8fQ4tHE0x-4" value="电解槽" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1170" y="380" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="XHffNd1frki8fQ4tHE0x-5" value="升压" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="-135" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XHffNd1frki8fQ4tHE0x-8" value="BMS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="574" y="240" width="120" height="60" as="geometry" />
@@ -55,7 +52,7 @@
           <mxGeometry x="1070" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XHffNd1frki8fQ4tHE0x-22" value="降压" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="810" y="-155" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XHffNd1frki8fQ4tHE0x-25" value="光伏" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="375" y="290" width="60" height="30" as="geometry" />
@@ -63,7 +60,7 @@
         <mxCell id="XHffNd1frki8fQ4tHE0x-26" value="储能" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="665" y="410" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XHffNd1frki8fQ4tHE0x-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.438;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XHffNd1frki8fQ4tHE0x-20" target="XHffNd1frki8fQ4tHE0x-24">
+        <mxCell id="XHffNd1frki8fQ4tHE0x-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XHffNd1frki8fQ4tHE0x-20" target="XHffNd1frki8fQ4tHE0x-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XHffNd1frki8fQ4tHE0x-28" value="" style="shape=link;html=1;rounded=0;width=6;" edge="1" parent="1">
@@ -97,6 +94,15 @@
         </mxCell>
         <mxCell id="XHffNd1frki8fQ4tHE0x-45" value="逆变" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="680" y="60" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XHffNd1frki8fQ4tHE0x-46" value="充电" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XHffNd1frki8fQ4tHE0x-47" value="在哪个位置？光伏站还是负荷旁？" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="634" y="460" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XHffNd1frki8fQ4tHE0x-48" value="升压" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="-140" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
