@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-05-31T07:38:11.072Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="4jYp_BQ3m1a2shqPH4x6" version="24.4.10" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-31T07:38:31.183Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="k2Je-C9e40tzP84eSj-2" version="24.4.10" type="github">
   <diagram id="P4hrTo7IcWHyGJP2rmx5" name="第 1 页">
     <mxGraphModel dx="1187" dy="920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="E1CRUq7AF78-fiV12XuH-1" value="光伏阵列" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="E1CRUq7AF78-fiV12XuH-1" value="光伏阵2列" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="130" y="120" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
