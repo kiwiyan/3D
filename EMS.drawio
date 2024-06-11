@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-11T07:19:52.564Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="bCX9u6f615xoscUDR7RC" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-11T07:30:18.541Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="4vDCHbs2Zx5GB2Fn60wb" version="24.5.2" type="github">
   <diagram name="第 1 页" id="smMwHirfsZ6QMiGASpG9">
     <mxGraphModel dx="808" dy="1118" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -149,49 +149,76 @@
           <mxGeometry x="585" y="350" width="85" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XLei9tXY5pJdT6jj4i4X-56" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="150" width="620" height="160" as="geometry" />
+          <mxGeometry x="100" y="810" width="620" height="160" as="geometry" />
         </mxCell>
         <mxCell id="XLei9tXY5pJdT6jj4i4X-57" value="发电监控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="185" y="178" width="85" height="40" as="geometry" />
+          <mxGeometry x="185" y="150" width="75" height="42" as="geometry" />
         </mxCell>
         <mxCell id="XLei9tXY5pJdT6jj4i4X-61" value="储能监控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="295" y="178" width="85" height="40" as="geometry" />
+          <mxGeometry x="275" y="152" width="75" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XLei9tXY5pJdT6jj4i4X-62" value="负荷监控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="178" width="85" height="40" as="geometry" />
+        <mxCell id="XLei9tXY5pJdT6jj4i4X-62" value="升压站监控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="152" width="75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XLei9tXY5pJdT6jj4i4X-63" value="全景监控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="504" y="178" width="85" height="40" as="geometry" />
+          <mxGeometry x="545" y="152" width="65" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XLei9tXY5pJdT6jj4i4X-64" value="源荷互动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="615" y="178" width="85" height="40" as="geometry" />
+          <mxGeometry x="625" y="150" width="75" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="XLei9tXY5pJdT6jj4i4X-67" value="黑启动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="185" y="248" width="85" height="40" as="geometry" />
+        <mxCell id="XLei9tXY5pJdT6jj4i4X-76" value="负荷监控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="152" width="75" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XLei9tXY5pJdT6jj4i4X-68" value="AVC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="295" y="248" width="85" height="40" as="geometry" />
+        <mxCell id="XLei9tXY5pJdT6jj4i4X-77" value="黑启动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="185" y="210" width="75" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="XLei9tXY5pJdT6jj4i4X-69" value="AGC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="248" width="85" height="40" as="geometry" />
+        <mxCell id="XLei9tXY5pJdT6jj4i4X-78" value="AGC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="212" width="75" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XLei9tXY5pJdT6jj4i4X-70" value="功率预测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="504" y="248" width="85" height="40" as="geometry" />
+        <mxCell id="XLei9tXY5pJdT6jj4i4X-79" value="AVC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="212" width="75" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XLei9tXY5pJdT6jj4i4X-71" value="发电计划" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="615" y="248" width="85" height="40" as="geometry" />
+        <mxCell id="XLei9tXY5pJdT6jj4i4X-80" value="功率预测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="545" y="212" width="65" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XLei9tXY5pJdT6jj4i4X-72" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=40;" vertex="1" parent="1">
-          <mxGeometry x="504" y="248" width="16" height="40" as="geometry" />
+        <mxCell id="XLei9tXY5pJdT6jj4i4X-81" value="发用电计划" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="625" y="210" width="75" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="XLei9tXY5pJdT6jj4i4X-73" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=40;" vertex="1" parent="1">
-          <mxGeometry x="615" y="248" width="15" height="40" as="geometry" />
+        <mxCell id="XLei9tXY5pJdT6jj4i4X-82" value="公式计算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="212" width="75" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XLei9tXY5pJdT6jj4i4X-74" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=40;" vertex="1" parent="1">
-          <mxGeometry x="400" y="248" width="30" height="40" as="geometry" />
+        <mxCell id="XLei9tXY5pJdT6jj4i4X-83" value="负荷管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="185" y="270" width="75" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="XLei9tXY5pJdT6jj4i4X-75" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=40;" vertex="1" parent="1">
-          <mxGeometry x="295" y="248" width="30" height="40" as="geometry" />
+        <mxCell id="XLei9tXY5pJdT6jj4i4X-84" value="告警" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="272" width="75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XLei9tXY5pJdT6jj4i4X-85" value="报表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="272" width="75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XLei9tXY5pJdT6jj4i4X-86" value="数据配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="545" y="272" width="65" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XLei9tXY5pJdT6jj4i4X-87" value="报表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="625" y="270" width="75" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="XLei9tXY5pJdT6jj4i4X-88" value="参数配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="272" width="75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XLei9tXY5pJdT6jj4i4X-89" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="275" y="212" width="25" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XLei9tXY5pJdT6jj4i4X-90" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="365" y="212" width="25" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XLei9tXY5pJdT6jj4i4X-91" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="545" y="212" width="15" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XLei9tXY5pJdT6jj4i4X-92" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="625" y="211" width="15" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XLei9tXY5pJdT6jj4i4X-93" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="275" y="271" width="55" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
