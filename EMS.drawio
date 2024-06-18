@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-18T07:44:43.296Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="WM98X6z7Gi1yjIxPfpTT" version="24.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-18T07:46:38.448Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="vUlW9F59AWrXI6L9fEpy" version="24.5.5" type="github">
   <diagram name="第 1 页" id="smMwHirfsZ6QMiGASpG9">
     <mxGraphModel dx="2122" dy="1333" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -382,11 +382,11 @@
         <mxCell id="cK4YAzCo4ckdNdjKXCYJ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cK4YAzCo4ckdNdjKXCYJ-10" target="cK4YAzCo4ckdNdjKXCYJ-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cK4YAzCo4ckdNdjKXCYJ-10" value="硬件设备" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="690.5" y="1671" width="120" height="60" as="geometry" />
+        <mxCell id="cK4YAzCo4ckdNdjKXCYJ-10" value="源网荷储设备" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="691.75" y="1676" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cK4YAzCo4ckdNdjKXCYJ-12" value="104/Modbus" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="540" y="1900" width="60" height="30" as="geometry" />
+          <mxGeometry x="477" y="1900" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cK4YAzCo4ckdNdjKXCYJ-14" value="EMS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-9" y="1715" width="60" height="30" as="geometry" />
