@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-18T08:26:55.862Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="yYElVM577vQV5dNfiGfl" version="24.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-18T08:40:42.305Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="2lDUUuDVWXX7oNwE4SmD" version="24.5.5" type="github">
   <diagram name="第 1 页" id="smMwHirfsZ6QMiGASpG9">
-    <mxGraphModel dx="2466" dy="1519" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2831" dy="1716" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -746,6 +746,36 @@
         </mxCell>
         <mxCell id="14JraEPWUSEua7F9-H_o-106" value="颜色进度条" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1270" y="29" width="74" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="14JraEPWUSEua7F9-H_o-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="14JraEPWUSEua7F9-H_o-107" target="14JraEPWUSEua7F9-H_o-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="14JraEPWUSEua7F9-H_o-107" value="气象数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1785" y="1255" width="114" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="14JraEPWUSEua7F9-H_o-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="14JraEPWUSEua7F9-H_o-108" target="14JraEPWUSEua7F9-H_o-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="14JraEPWUSEua7F9-H_o-108" value="风光预测装置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1782" y="1397" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="14JraEPWUSEua7F9-H_o-109" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1398" y="1396" width="275" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="14JraEPWUSEua7F9-H_o-112" value="预测文件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1683" y="1396" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="14JraEPWUSEua7F9-H_o-113" value="&lt;b&gt;功率预测&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1553" y="1204" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="14JraEPWUSEua7F9-H_o-114" value="文件定期传输" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1482" y="1411" width="79" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="14JraEPWUSEua7F9-H_o-115" value="数据存储" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1575" y="1411" width="79" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="14JraEPWUSEua7F9-H_o-116" value="EMS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1405" y="1415" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
