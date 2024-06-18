@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-18T23:45:11.911Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="Bq_WlR8xeJeh6MgsCoRB" version="24.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-18T23:45:52.607Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="Z9ZSZRlipla3dzC6_maS" version="24.5.5" type="github">
   <diagram name="第 1 页" id="smMwHirfsZ6QMiGASpG9">
     <mxGraphModel dx="4031" dy="1716" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -382,7 +382,7 @@
         <mxCell id="cK4YAzCo4ckdNdjKXCYJ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cK4YAzCo4ckdNdjKXCYJ-10" target="cK4YAzCo4ckdNdjKXCYJ-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cK4YAzCo4ckdNdjKXCYJ-10" value="源网荷储设备" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=hatch;" parent="1" vertex="1">
+        <mxCell id="cK4YAzCo4ckdNdjKXCYJ-10" value="源网荷储硬件设备" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=hatch;" parent="1" vertex="1">
           <mxGeometry x="1247" y="1748" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cK4YAzCo4ckdNdjKXCYJ-12" value="104/Modbus" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -513,7 +513,7 @@
         <mxCell id="14JraEPWUSEua7F9-H_o-3" value="处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="588" y="1506" width="56" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="14JraEPWUSEua7F9-H_o-4" value="Data Process" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="14JraEPWUSEua7F9-H_o-4" value="DP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="347" y="1506" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="14JraEPWUSEua7F9-H_o-5" value="AGC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
