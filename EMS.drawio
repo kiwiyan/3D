@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-19T00:35:32.153Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="5oE6f8JhLcW_q9yGbINu" version="24.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-19T00:36:05.628Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="Ww-iMaAP8yO7cxFWlFPW" version="24.5.5" type="github">
   <diagram name="第 1 页" id="smMwHirfsZ6QMiGASpG9">
     <mxGraphModel dx="3631" dy="1716" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -502,13 +502,13 @@
           <mxGeometry x="-324" y="1698" width="100" height="48" as="geometry" />
         </mxCell>
         <mxCell id="cK4YAzCo4ckdNdjKXCYJ-44" value="1. AGC控制：1-2-3-4，控制响应 5-6-7" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-128" y="2192" width="335" height="30" as="geometry" />
+          <mxGeometry x="-382" y="3173" width="335" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cK4YAzCo4ckdNdjKXCYJ-45" value="2. 数据上报：5-9" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-128" y="2225" width="335" height="30" as="geometry" />
+          <mxGeometry x="-382" y="3206" width="335" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cK4YAzCo4ckdNdjKXCYJ-46" value="3. FC 有两个作用，将 pid 和 dot 值转换；PID 算法控制-逐步控制，逐步响应" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-128" y="2261" width="335" height="30" as="geometry" />
+          <mxGeometry x="-382" y="3242" width="335" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cK4YAzCo4ckdNdjKXCYJ-47" value="FC-CTRL-DOWN" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-18" y="1754" width="127" height="30" as="geometry" />
@@ -517,7 +517,7 @@
           <mxGeometry x="-28" y="1784" width="127" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cK4YAzCo4ckdNdjKXCYJ-49" value="4. YK, YT 控制(下发)： 1/7/2/6 pid+value；3/4/5 dot+value&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp;YC, YX 控制(上报)：5/9" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-128" y="2310" width="335" height="30" as="geometry" />
+          <mxGeometry x="-382" y="3291" width="335" height="30" as="geometry" />
         </mxCell>
         <mxCell id="14JraEPWUSEua7F9-H_o-1" value="采集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="449" y="1507" width="56" height="34" as="geometry" />
